@@ -1,0 +1,9 @@
+Assignment
+ Provide 3 hyperlinks:
+» Yahoo, Google and CNN
+ On click of those links its corresponding web site should be opened
+ Display a company’s information using headers (Use h1 to h6)
+ Display the employee information in tables. It should have the following information:
+» Employee id, Name, Department, Designation
+ Display the list of countries using Un-ordered list
+ On click of a link, display Edureka’s website in an iframe
